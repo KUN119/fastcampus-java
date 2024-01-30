@@ -1,4 +1,4 @@
-package cource2.part1;
+package course2.part1;
 
 import model2.MinMaxFinder;
 
