@@ -1,4 +1,4 @@
-package course2.part2;
+package course2.part1;
 
 import model2.IntArray;
 
