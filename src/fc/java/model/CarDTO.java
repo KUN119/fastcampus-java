@@ -5,5 +5,5 @@ public class CarDTO {
     public int carPrice;
     public String carOwner;
     public int carYear;
-    public int carType;
+    public String carType;
 }

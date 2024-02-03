@@ -27,7 +27,7 @@ public class CarTest {
         scanner.nextLine();
 
         System.out.print("타입:");
-        int carType = scanner.nextInt();
+        String carType = scanner.nextLine();
         scanner.nextLine();
 
         //System.out.println(carSn + "\t" + carPrice + "\t" + carOwner + "\t" + carYear + "\t" + carType);
